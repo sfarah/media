@@ -1,0 +1,183 @@
+Comunique (ENG & FRE)
+
+
+
+<TABLE style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: medium none; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: medium none; WIDTH: 100%; PADDING-TOP: 0px; BORDER-BOTTOM: medium none; BORDER-COLLAPSE: collapse">
+<TBODY>
+<TR>
+<TD style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: medium none; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: medium none; WIDTH: 1%; PADDING-TOP: 0px; BORDER-BOTTOM: medium none; BORDER-COLLAPSE: collapse"><IMG src="http://dev.civilisations.ca/images/english/templates/media/tb_communique.gif"></TD>
+<TD style="WIDTH: 99%" background=/images/english/templates/academ/bg_title.gif></TD></TR></TBODY></TABLE>
+
+
+
+
+Invetation (ENG & FRE)................................................................................
+
+
+
+
+<TABLE style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: medium none; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: medium none; WIDTH: 100%; PADDING-TOP: 0px; BORDER-BOTTOM: medium none; BORDER-COLLAPSE: collapse">
+<TBODY>
+<TR>
+<TD style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: medium none; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: medium none; WIDTH: 1%; PADDING-TOP: 0px; BORDER-BOTTOM: medium none; BORDER-COLLAPSE: collapse"><IMG src="/images/english/templates/media/tb_invitation.gif"></TD>
+<TD style="WIDTH: 99%" background=/images/english/templates/academ/bg_title.gif></TD></TR></TBODY></TABLE>
+
+
+
+
+Announcment ....................................................................................
+
+
+(ENG)
+
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR> 
+<TD WIDTH="1%"><IMG SRC="/images/english/templates/media/tb_anouncement.gif" HEIGHT="38"></TD>
+<TD WIDTH="99%" BACKGROUND="/images/english/templates/academ/bg_title.gif">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+
+(FRENCH)
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR> 
+<TD WIDTH="1%"><IMG SRC="/app/ImageRepository/1/media/tb_announcement.gif" HEIGHT="38"></TD>
+<TD WIDTH="99%" BACKGROUND="/images/english/templates/academ/bg_title.gif">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+
+
+......................................................................................................................
+
+
+
+FOOOOTTTTTEEEEEEEEERRRRRRRRRRRRRRRRRRRRR 
+
+ ............................................................................................
+
+Civilization.......
+
+
+
+
+
+
+
+<p><strong>Media Information</strong>:<br>
+  <br>
+Chief, Media Relations<br>
+Canadian Museum of Civilization<br>
+Tel.: 819 776-7167<br>
+<br>
+Media Relations Officer<br>
+Canadian Museum of Civilization<br>
+Tel.: 819 776-7169<br>
+<br>
+Fax: 819 776-7187 </p>
+
+
+
+
+
+
+<p><strong>Renseignements (médias) :</strong><br>
+  <br>
+Chef, Relations médias<br>
+Musée canadien des civilisations<br>
+Tél. : 819 776-7167<br>
+<br>
+Relationniste auprès des médias<br>
+Musée canadien des civilisations<br>
+Tél. : 819 776-7169<br>
+<br>
+Téléc. : 819 776-7187 </p>
+
+.............................................................................................
+
+War ................
+
+
+
+<p><strong>Media  Information</strong>:</p>
+<p>Avra Gibbs Lamey<br>
+  Communications and Media Relations Officer<br>
+
+  Telephone:  819 776-8607<br>
+<a href="mailto:avra.gibbs-lamey@warmuseum.ca">avra.gibbs-lamey@warmuseum.ca</a></p>
+
+<p>Yasmine Mingay<br>Manager, Communications, <br>
+  Canadian  War Museum<br>
+  Telephone: 819 776-8608<br>
+<a href="mailto:yasmine.mingay@warmuseum.ca">yasmine.mingay@warmuseum.ca</a></p></p>
+
+
+
+
+
+<p><strong>Renseignements (médias) </strong>:</p>
+<p>Avra Gibbs Lamey<br>
+Agente de Communications et relations médias<br>
+  Téléphone: 819 776-8607<br>
+<a href="mailto:avra.gibbs-lamey@museedelaguerre.ca">avra.gibbs-lamey@museedelaguerre.ca</a></p>
+
+<p>Yasmine Mingay<br>Gestionnaire, Communications, <br>
+  Musée canadien de la guerre<br>
+Téléphone: 819 776-8608<br>
+<a href="mailto:yasmine.mingay@museedelaguerre.ca">yasmine.mingay@museedelaguerre.ca</a></strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><strong>Media  Information</strong>:</p>
+<p>Chief,  Media Relations<br>
+  Canadian  War Museum<br>
+  Telephone:  819 776-7167</p>
+<p>Media  Relations Officer<br>
+  Canadian  War Museum<br>
+  Tel.: 819 776-8607</p>
+<p>Fax: 819 776-8623</p>
+
+
+<p><strong>Renseignements (médias) </strong>:</p>
+<p>Chef, Relations médias<br>
+  Musée canadien de la guerre<br>
+  Tél. : 819 776-7167</p>
+<p>Relationniste auprès des médias<br>
+  Musée canadien de la guerre<br>
+  Tél.  : 819 776-8607</p>
+<p>Téléc.  : 819 776-8623</p>
+
+
+
+
+
+
+
